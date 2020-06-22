@@ -1,2 +1,2 @@
 # wdbook
-自动化构建
+gitbook 自动化构建 demo
